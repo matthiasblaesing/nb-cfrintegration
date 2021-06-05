@@ -1,0 +1,4 @@
+# Not distributed, but present by membership in NetBeans distribution
+exclude gaPattern org\.netbeans\..*:.*
+exclude gaPattern org\.apache\.lucene:lucene-core
+exclude gaPattern org\.ow2\.asm:.*
